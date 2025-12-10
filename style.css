@@ -1,0 +1,34 @@
+body {
+  background: #fff2de;
+  border: 24px  solid #b57b3c;
+  margin: 0px;
+  color: #080808;
+  padding: 24px ;
+  font-family: sans-serif;
+}
+h1 {
+  font-family: cursive;
+  text-align: center;
+}
+h2 , h3 {
+  font-family: serif;
+}
+
+div.box1 {
+  width: 300px;
+  border-image: url("https://lh3.googleusercontent.com/d/1c3rpwUNKogaNuaiPwnIWDZfQdPJR_mY2") 30 / 45px round;
+  padding: 40px 70px;
+  margin: auto;
+  color: #79552f;
+}
+
+div.box2 {
+  padding: 0%;
+  margin: 25px;
+  border-image: url("https://lh3.googleusercontent.com/d/1kkNnegaCKImVLR9d-5GgmywTLjujTMJf") 10 / 20px/ 10px round;
+  
+}
+th{ 
+  font-family: serif;
+  vertical-align: top;
+}
