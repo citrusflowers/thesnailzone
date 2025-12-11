@@ -22,7 +22,7 @@ div.box1 {
   color: #79552f;
 }
 
-.box2 {
+div.box2 {
   padding: 0%;
   margin: 25px;
   border-image: url("https://lh3.googleusercontent.com/d/1kkNnegaCKImVLR9d-5GgmywTLjujTMJf") 10 / 20px/ 10px round;
